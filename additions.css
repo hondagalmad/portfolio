@@ -1,0 +1,1 @@
+.solver-project{display:grid;grid-template-columns:1fr 1fr;gap:30px;padding:48px 10%;background:#ccd99d}.solver-mark{font-family:Georgia,serif;color:#5d8114;font-size:190px;line-height:.7;align-self:center}.solver-project .project-number{margin-bottom:18px}@media(max-width:720px){.solver-project{display:block;padding:42px 0}.solver-mark{font-size:100px;margin-bottom:25px}}
